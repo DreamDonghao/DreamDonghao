@@ -1,5 +1,14 @@
-# Hi, I'm DreamDonghao
+<h1 align="center">Hi there, I'm DreamDonghao </h1>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DreamDonghao&show_icons=true&hide_border=true)](https://github.com/DreamDonghao)
+<p align="center">
+  <a href="mailto:dreamdonghao@outlook.com">
+    <img src="https://img.shields.io/badge/Email-dreamdonghao@outlook.com-blue?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamDonghao&layout=compact&hide_border=true)](https://github.com/DreamDonghao?tab=repositories)
+---
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DreamDonghao&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamDonghao&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
